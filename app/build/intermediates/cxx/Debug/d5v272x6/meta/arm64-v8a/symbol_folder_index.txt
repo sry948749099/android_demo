@@ -1,0 +1,1 @@
+/Users/songruiyang/ndk-samples/native-activity/app/build/intermediates/cxx/Debug/d5v272x6/obj/arm64-v8a

@@ -1,0 +1,4 @@
+/Users/songruiyang/ndk-samples/native-activity/app/.cxx/Debug/d5v272x6/x86/CMakeFiles/rebuild_cache.dir
+/Users/songruiyang/ndk-samples/native-activity/app/.cxx/Debug/d5v272x6/x86/CMakeFiles/edit_cache.dir
+/Users/songruiyang/ndk-samples/native-activity/app/.cxx/Debug/d5v272x6/x86/CMakeFiles/native-activity.dir
+/Users/songruiyang/ndk-samples/native-activity/app/.cxx/Debug/d5v272x6/x86/CMakeFiles/native_app_glue.dir

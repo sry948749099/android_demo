@@ -1,0 +1,21 @@
+# ninja log v5
+1	218	1679388237	CMakeFiles/native_app_glue.dir/Users/songruiyang/Library/Android/sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c.o	904472736c7af702
+0	345	1679388237	CMakeFiles/native-activity.dir/main.cpp.o	75a6fb756552eb03
+219	633	1679388238	libnative_app_glue.a	cf25af8418d0ef98
+633	740	1679388238	/Users/songruiyang/ndk-samples/native-activity/app/build/intermediates/cxx/Debug/d5v272x6/obj/arm64-v8a/libnative-activity.so	d54325b04e17f857
+1	88	1679388914	/Users/songruiyang/ndk-samples/native-activity/app/build/intermediates/cxx/Debug/d5v272x6/obj/arm64-v8a/libnative-activity.so	9e92a7f212c02b4b
+1	287	1679388963	/Users/songruiyang/ndk-samples/native-activity/app/build/intermediates/cxx/Debug/d5v272x6/obj/arm64-v8a/libnative-activity.so	d54325b04e17f857
+0	11	0	clean	b7ac5b764dcddec9
+0	10	0	clean	b7ac5b764dcddec9
+13	413	1679392809	CMakeFiles/native_app_glue.dir/Users/songruiyang/Library/Android/sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c.o	904472736c7af702
+11	501	1679392810	CMakeFiles/native-activity.dir/main.cpp.o	75a6fb756552eb03
+413	629	1679392810	libnative_app_glue.a	cf25af8418d0ef98
+629	817	1679392810	/Users/songruiyang/ndk-samples/native-activity/app/build/intermediates/cxx/Debug/d5v272x6/obj/arm64-v8a/libnative-activity.so	d54325b04e17f857
+3	445	1679448162	/Users/songruiyang/ndk-samples/native-activity/app/build/intermediates/cxx/Debug/d5v272x6/obj/arm64-v8a/libnative-activity.so	9e92a7f212c02b4b
+1	210	1679448207	/Users/songruiyang/ndk-samples/native-activity/app/build/intermediates/cxx/Debug/d5v272x6/obj/arm64-v8a/libnative-activity.so	d54325b04e17f857
+2	539	1679627929	CMakeFiles/native_app_glue.dir/Users/songruiyang/Library/Android/sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c.o	904472736c7af702
+1	637	1679627929	CMakeFiles/native-activity.dir/main.cpp.o	75a6fb756552eb03
+539	697	1679627929	libnative_app_glue.a	cf25af8418d0ef98
+697	927	1679627930	/Users/songruiyang/ndk-samples/native-activity/app/build/intermediates/cxx/Debug/d5v272x6/obj/arm64-v8a/libnative-activity.so	d54325b04e17f857
+3	221	1679646454	CMakeFiles/native_app_glue.dir/Users/songruiyang/Library/Android/sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c.o	904472736c7af702
+221	311	1679646454	libnative_app_glue.a	cf25af8418d0ef98

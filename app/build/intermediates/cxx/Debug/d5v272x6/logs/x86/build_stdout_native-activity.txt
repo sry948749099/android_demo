@@ -1,0 +1,5 @@
+ninja: Entering directory `/Users/songruiyang/ndk-samples/native-activity/app/.cxx/Debug/d5v272x6/x86'
+[1/4] Building C object CMakeFiles/native_app_glue.dir/Users/songruiyang/Library/Android/sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c.o
+[2/4] Linking C static library libnative_app_glue.a
+[3/4] Building CXX object CMakeFiles/native-activity.dir/main.cpp.o
+[4/4] Linking CXX shared library /Users/songruiyang/ndk-samples/native-activity/app/build/intermediates/cxx/Debug/d5v272x6/obj/x86/libnative-activity.so

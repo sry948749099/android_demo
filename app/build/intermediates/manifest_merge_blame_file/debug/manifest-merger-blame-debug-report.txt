@@ -1,0 +1,67 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!-- BEGIN_INCLUDE(manifest) -->
+3<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+4    package="com.example.native_activity"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="14"
+9-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="33" />
+10-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml
+11
+12    <!-- This .apk has no Java code itself, so set hasCode to false. -->
+13    <application
+13-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml:9:3-33:17
+14        android:allowBackup="false"
+14-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml:11:7-34
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.8.0] /Users/songruiyang/.gradle/caches/transforms-3/9805343650087d652836f13906f121cc/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:fullBackupContent="false"
+17-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml:12:7-40
+18        android:hasCode="false"
+18-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml:15:7-30
+19        android:icon="@mipmap/ic_launcher"
+19-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml:13:7-41
+20        android:label="@string/app_name"
+20-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml:14:7-39
+21        android:testOnly="true" >
+22        <!--
+23         Our activity is the built-in NativeActivity framework class.
+24         This will take care of integrating with our NDK code.
+25        -->
+26        <activity
+26-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml:21:5-32:16
+27            android:name="android.app.NativeActivity"
+27-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml:21:15-56
+28            android:configChanges="orientation|keyboardHidden"
+28-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml:23:15-65
+29            android:exported="true"
+29-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml:24:9-32
+30            android:label="@string/app_name" >
+30-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml:22:15-47
+31
+32            <!-- Tell NativeActivity the name of our .so -->
+33            <meta-data
+33-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml:26:7-27:52
+34                android:name="android.app.lib_name"
+34-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml:26:18-53
+35                android:value="native-activity" />
+35-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml:27:18-49
+36
+37            <intent-filter>
+37-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml:28:7-31:23
+38                <action android:name="android.intent.action.MAIN" />
+38-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml:29:9-61
+38-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml:29:17-58
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml:30:9-69
+40-->/Users/songruiyang/ndk-samples/native-activity/app/src/main/AndroidManifest.xml:30:19-66
+41            </intent-filter>
+42        </activity>
+43    </application>
+44
+45</manifest> <!-- END_INCLUDE(manifest) -->

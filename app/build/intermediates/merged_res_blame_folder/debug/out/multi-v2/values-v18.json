@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.native_activity.app-mergeDebugResources-20:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/songruiyang/.gradle/caches/transforms-3/2cb5d07b6c4c8a96eb333d76a48b288e/transformed/appcompat-1.5.1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/songruiyang/ndk-samples/native-activity/app/.cxx/Debug/d5v272x6/x86",
+  "command": "/Users/songruiyang/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android19 --sysroot=/Users/songruiyang/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_activity_EXPORTS -I/Users/songruiyang/Library/Android/sdk/ndk/25.1.8937393/sources/android/native_app_glue -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=gnu++11 -Wall -Werror -fno-limit-debug-info  -fPIC -o CMakeFiles/native-activity.dir/main.cpp.o -c /Users/songruiyang/ndk-samples/native-activity/app/src/main/cpp/main.cpp",
+  "file": "/Users/songruiyang/ndk-samples/native-activity/app/src/main/cpp/main.cpp"
+},
+{
+  "directory": "/Users/songruiyang/ndk-samples/native-activity/app/.cxx/Debug/d5v272x6/x86",
+  "command": "/Users/songruiyang/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android19 --sysroot=/Users/songruiyang/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles/native_app_glue.dir/Users/songruiyang/Library/Android/sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c.o -c /Users/songruiyang/Library/Android/sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c",
+  "file": "/Users/songruiyang/Library/Android/sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c"
+}
+]

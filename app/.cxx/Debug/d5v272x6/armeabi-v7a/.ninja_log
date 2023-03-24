@@ -1,0 +1,12 @@
+# ninja log v5
+1	189	1679388535	CMakeFiles/native_app_glue.dir/Users/songruiyang/Library/Android/sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c.o	89a13f80922f9eb5
+189	271	1679388535	libnative_app_glue.a	cf25af8418d0ef98
+0	329	1679388535	CMakeFiles/native-activity.dir/main.cpp.o	7543ec2eaf340962
+330	424	1679388535	/Users/songruiyang/ndk-samples/native-activity/app/build/intermediates/cxx/Debug/d5v272x6/obj/armeabi-v7a/libnative-activity.so	b9e3517f4b4756b9
+0	87	1679390618	build.ninja	c0b1425ca58cca54
+0	13	0	clean	b7ac5b764dcddec9
+0	13	0	clean	b7ac5b764dcddec9
+2	111	1679392810	CMakeFiles/native_app_glue.dir/Users/songruiyang/Library/Android/sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c.o	89a13f80922f9eb5
+111	173	1679392810	libnative_app_glue.a	cf25af8418d0ef98
+2	226	1679392810	CMakeFiles/native-activity.dir/main.cpp.o	7543ec2eaf340962
+226	328	1679392810	/Users/songruiyang/ndk-samples/native-activity/app/build/intermediates/cxx/Debug/d5v272x6/obj/armeabi-v7a/libnative-activity.so	b9e3517f4b4756b9

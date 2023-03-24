@@ -1,0 +1,4 @@
+/Users/songruiyang/Library/Android/sdk/cmake/3.18.1/bin/ninja \
+  -C \
+  /Users/songruiyang/ndk-samples/native-activity/app/.cxx/Debug/d5v272x6/armeabi-v7a \
+  native-activity

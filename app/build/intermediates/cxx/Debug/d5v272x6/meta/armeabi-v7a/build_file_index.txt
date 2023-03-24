@@ -1,0 +1,1 @@
+/Users/songruiyang/ndk-samples/native-activity/app/src/main/cpp/CMakeLists.txt

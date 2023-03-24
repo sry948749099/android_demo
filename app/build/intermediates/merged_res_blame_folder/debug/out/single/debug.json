@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.native_activity.app-merged_res-22:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.native_activity.app-main-24:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.native_activity.app-merged_res-22:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.native_activity.app-main-24:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.native_activity.app-merged_res-22:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.native_activity.app-main-24:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.native_activity.app-merged_res-22:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.native_activity.app-main-24:/mipmap-hdpi/ic_launcher.png"
+    }
+]

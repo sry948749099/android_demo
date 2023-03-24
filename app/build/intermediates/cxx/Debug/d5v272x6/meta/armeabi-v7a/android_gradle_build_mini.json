@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/Users/songruiyang/ndk-samples/native-activity/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/songruiyang/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/songruiyang/ndk-samples/native-activity/app/.cxx/Debug/d5v272x6/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/songruiyang/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/songruiyang/ndk-samples/native-activity/app/.cxx/Debug/d5v272x6/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-activity::@6890427a1f51a3e7e1df": {
+      "artifactName": "native-activity",
+      "abi": "armeabi-v7a",
+      "output": "/Users/songruiyang/ndk-samples/native-activity/app/build/intermediates/cxx/Debug/d5v272x6/obj/armeabi-v7a/libnative-activity.so",
+      "runtimeFiles": []
+    },
+    "native_app_glue::@6890427a1f51a3e7e1df": {
+      "artifactName": "native_app_glue",
+      "abi": "armeabi-v7a",
+      "output": "/Users/songruiyang/ndk-samples/native-activity/app/.cxx/Debug/d5v272x6/armeabi-v7a/libnative_app_glue.a",
+      "runtimeFiles": []
+    }
+  }
+}

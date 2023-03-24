@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "native-activity::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-native-activity-Debug-e21066b7aaf0c796c1a0.json",
+					"name" : "native-activity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "native_app_glue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-native_app_glue-Debug-1664c0c1ac854ac248c3.json",
+					"name" : "native_app_glue",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/songruiyang/ndk-samples/native-activity/app/.cxx/Debug/d5v272x6/armeabi-v7a",
+		"source" : "/Users/songruiyang/ndk-samples/native-activity/app/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}
